@@ -1,0 +1,49 @@
+body{ background-image: url(images/login-background.jpg);   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 1850px;
+}
+.pot{
+    display: flex;
+}
+.logo img{
+width: 100px;
+}
+.login{
+margin-left: 1070px;
+margin-bottom: 10px;
+font-size: 29px;
+}
+a:hover{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:link{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+.fish{
+    border: 2px solid black ;
+    background-color: blue;
+    margin-left: 430px;
+    font-size: 30px;
+    color: white;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+}
+.cta-2{
+    margin-left: 100px;
+}
